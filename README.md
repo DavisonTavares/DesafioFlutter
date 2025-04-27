@@ -98,23 +98,36 @@ lib/
 ```dart
 await dotenv.load(fileName: ".env");
 ```
-
 ---
 
 ## ✨ Telas Principais
 
 - Listagem de Confeitarias
-- Detalhes da Confeitaria (lista de produtos)
+- Detalhes da Confeitaria com a localizaçao da confeitaria 
+- lista de produtos
 - Cadastro/Edição de Confeitaria
 - Cadastro/Edição de Produto
 - Mapa com localização das confeitarias (futuro)
 
 ---
 
+## Capturas de Tela
+
+### Tela Inicial
+![Tela Inicial](screenshots/home_screen.png)
+
+### Detalhes do Produto
+![Detalhes do Produto](screenshots/detail_screen.png)
+
+### Tela de Cadastro
+![Tela de Cadastro](screenshots/product_screen.png)
+
+---
+
 ## 💻 Desenvolvido por
 
 **Davison Tavares**  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/davison-tavares/) | [GitHub](https://github.com/DavisonTavares)
 
 ---
 
