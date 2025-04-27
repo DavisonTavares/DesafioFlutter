@@ -114,13 +114,13 @@ await dotenv.load(fileName: ".env");
 ## Capturas de Tela
 
 ### Tela Inicial
-![Tela Inicial](screenshots/home_screen.png)
+![Tela Inicial](screenshots/home_screen.jpeg)
 
 ### Detalhes do Produto
-![Detalhes do Produto](screenshots/detail_screen.png)
+![Detalhes do Produto](screenshots/detail_screen.jpeg)
 
 ### Tela de Cadastro
-![Tela de Cadastro](screenshots/product_screen.png)
+![Tela de Cadastro](screenshots/product_screen.jpeg)
 
 ---
 
