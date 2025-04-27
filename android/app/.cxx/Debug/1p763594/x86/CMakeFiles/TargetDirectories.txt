@@ -1,0 +1,2 @@
+C:/Users/12345/Documents/Projetos/desafio_engeselt_flutter/confeitaria_marketplace/android/app/.cxx/Debug/1p763594/x86/CMakeFiles/edit_cache.dir
+C:/Users/12345/Documents/Projetos/desafio_engeselt_flutter/confeitaria_marketplace/android/app/.cxx/Debug/1p763594/x86/CMakeFiles/rebuild_cache.dir
